@@ -1,0 +1,25 @@
+{
+  "name": "vite-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-carousel": "^1.0.5",
+    "axios": "^0.20.0",
+    "chart.js": "^2.9.3",
+    "dragula": "^3.7.2",
+    "lodash": "^4.17.20",
+    "vue": "^3.0.0-rc.1",
+    "vue-chartjs": "^3.5.1",
+    "vue-infinite-scroll": "^2.0.2",
+    "vue-lodash": "^2.1.2",
+    "vue-router": "^4.0.0-beta.9",
+    "vuex": "^4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.1"
+  }
+}
